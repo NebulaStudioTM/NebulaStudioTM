@@ -1,39 +1,39 @@
-👋 Hi, I’m @NebulaStudioTM
+Here's the updated version in English:  
 
-👀 I’m interested in web development, software engineering, network administration, and cybersecurity.
+---
 
-🌱 I’m currently learning new technologies and frameworks to enhance my skills in development and security practices.
+## 🚀 Who Am I?  
 
-💞️ I’m looking to collaborate on open source projects related to web development or cybersecurity.
+Hi! I'm **NebulaStudioTM**, a tech enthusiast passionate about innovation and exciting challenges. 🌌  
 
-📫 How to reach me: https://t.me/NebulaStudio
+### 🔍 What Drives Me?  
+- **Web Development**: Crafting unique and engaging online experiences.  
+- **Cybersecurity**: Protecting the digital world with smart strategies.  
+- **Software Engineering**: Designing scalable and high-performance solutions.  
+- **Network Administration**: Optimizing connections and infrastructures.  
 
-😄 Pronouns: He/Him
+---
 
-⚡ Fun fact: I'm passionate about innovation and enjoy exploring new technologies and trends in tech.
+### 🌱 Always Growing  
+I’m constantly exploring new technologies and frameworks to enhance my skills and create innovative solutions.  
 
+---
 
+### 💻 Let’s Collaborate!  
+I enjoy working on **ambitious projects** that combine creativity and technology. Have an idea or project in mind? Let’s connect and make something amazing!  
 
-### 👨‍💻 About Me
+---
 
-I am a computer and telecommunications engineer with a strong background in software development, network administration, and cybersecurity. I thrive in team environments and excel in solving complex problems. My professional journey includes roles such as Web Developer, Software Developer, and Network Administrator.
+### 🛠️ My Skills  
+- **Programming**: Java, Python, C++, JavaScript  
+- **Web Development**: HTML5, CSS3, React, Angular  
+- **Databases**: SQL, MySQL, PostgreSQL  
+- **Networks & Security**: TCP/IP, firewalls, VPN, advanced configurations  
+- **Tools & Frameworks**: Docker, Kubernetes, Git, Jenkins  
+- **Creativity & Management**: Adobe Suite, Trello, Microsoft Project  
 
-### 🚀 Skills
+---
 
-- **Programming Languages**: Java, Python, C++, JavaScript
-- **Web Development**: HTML, CSS, React, Angular
-- **Database Management**: SQL, MySQL, PostgreSQL
-- **Network Configuration**: Router, switch, TCP/IP
-- **Tools & Technologies**: Git, Docker, Kubernetes, Jenkins
-- **Cybersecurity**: Antivirus, firewall, VPN
-- **Other**: Microsoft Office, Project Management Tools (Trello, Microsoft Project), Adobe Suite (Photoshop, Illustrator, Premiere), etc.
-
-### 🌍 Languages
-
-- English: B1
-- Spanish: B1
-
-### 💡 Interests
-
-I am passionate about leveraging my technical skills to contribute to innovative projects and learning from collaborative efforts. Open to exploring opportunities in web development, cybersecurity, and beyond.
-
+### 🔗 A Bit About Me  
+- **Languages**: Italian, English (B1), Spanish (B1)  
+- **Fun Fact**: My curiosity drives me to explore new technologies and trends in the tech world every day. 🌟  
