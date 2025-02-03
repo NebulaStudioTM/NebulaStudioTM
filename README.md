@@ -1,4 +1,4 @@
-Here's the updated version in English:  
+
 
 ---
 
